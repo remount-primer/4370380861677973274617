@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "6326845921",
+    "project_id": "pink-wallpaper-hd-4k",
+    "storage_bucket": "pink-wallpaper-hd-4k.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6326845921:android:1f897889a161ac49ad52a0",
+        "android_client_info": {
+          "package_name": "com.putriayu.wallpaper.hd4k.pink"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6326845921-mr0sij4h5ogfou9jmj011dt80v48c7ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ0yafaEbpdcN2BU5zK_gpKF2hxBEbvEU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6326845921-mr0sij4h5ogfou9jmj011dt80v48c7ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
